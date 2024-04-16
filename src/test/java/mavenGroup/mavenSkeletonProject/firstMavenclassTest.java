@@ -14,5 +14,9 @@ public class firstMavenclassTest {
 	public void editingTest()
 	{
 		System.out.println("editing a maven class file");
+		System.out.println("editing a maven class file");
+		System.out.println("editing a maven class file");
+		System.out.println("editing a maven class file");
+		
 	}
 }
